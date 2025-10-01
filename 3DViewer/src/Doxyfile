@@ -1,0 +1,10 @@
+PROJECT_NAME           = "3DViewer v2.0"
+INPUT = ./controller ./model ./gui
+RECURSIVE        = YES
+OUTPUT_DIRECTORY = ./docs
+EXCLUDE          = ./tests
+FILE_PATTERNS    = *.cpp *.h
+GENERATE_HTML    = YES
+GENERATE_LATEX   = NO
+EXTRACT_ALL            = YES
+QUIET                 = YES
