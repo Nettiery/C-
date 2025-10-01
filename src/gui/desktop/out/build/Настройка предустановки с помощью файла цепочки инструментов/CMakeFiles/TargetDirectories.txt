@@ -1,0 +1,9 @@
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/desktop.dir
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/edit_cache.dir
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/rebuild_cache.dir
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/list_install_components.dir
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/install.dir
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/install/local.dir
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/install/strip.dir
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/desktop_autogen_timestamp_deps.dir
+/Users/olga/Desktop/new_version/CPP3_BrickGame_v2.0-1/src/gui/desktop/out/build/Настройка предустановки с помощью файла цепочки инструментов/CMakeFiles/desktop_autogen.dir

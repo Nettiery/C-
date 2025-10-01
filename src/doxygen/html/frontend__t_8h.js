@@ -1,0 +1,26 @@
+var frontend__t_8h =
+[
+    [ "CONTROLS_M", "frontend__t_8h.html#ab69d16d32bb53e75be01c28530552bac", null ],
+    [ "FINISH_GAME_M", "frontend__t_8h.html#a0c9bda7b32123437dac329c0585df27d", null ],
+    [ "FINISH_GAME_N", "frontend__t_8h.html#acacaff62dd2cd08768f861950664075e", null ],
+    [ "GAME_FIELD_M", "frontend__t_8h.html#adda1db9386e4e18d44a8b42062069aa9", null ],
+    [ "GAME_FIELD_N", "frontend__t_8h.html#a24030ffa5ff2f5531fbacaedef338e70", null ],
+    [ "GAME_INFO_M", "frontend__t_8h.html#a4222170550f45890fa71e8aa5d4ed113", null ],
+    [ "LEFT_MARGIN", "frontend__t_8h.html#a88ad889a0beb68abbe885b06f5325a73", null ],
+    [ "PAUSE_MENU_M", "frontend__t_8h.html#afa190fb8001423502e5fbd4d0101e505", null ],
+    [ "PAUSE_MENU_N", "frontend__t_8h.html#ae43d27d0c5302cee40d86f59f030a8cd", null ],
+    [ "START_MENU_M", "frontend__t_8h.html#a05810da2b669025cb50d79736c62ce70", null ],
+    [ "START_MENU_N", "frontend__t_8h.html#a69a6ee322783afda1d4954123e63ef4d", null ],
+    [ "TOP_MARGIN", "frontend__t_8h.html#a08df7f4ae6d9f5b675d02769b430cadf", null ],
+    [ "init_colors", "frontend__t_8h.html#a63790e021bbe6eb4ee0525657d2c8b3f", null ],
+    [ "init_ncurses", "frontend__t_8h.html#a85769112d75b553ce8125bfda23f32bc", null ],
+    [ "print_controls", "frontend__t_8h.html#ae6eedd6eb94f072f1545b2ad6473c634", null ],
+    [ "print_game_field", "frontend__t_8h.html#a30ba0e61bbdad8311a6e6913d0bf9e1a", null ],
+    [ "print_game_info", "frontend__t_8h.html#a43433ef8e094009ed3dd64b593844484", null ],
+    [ "print_game_over", "frontend__t_8h.html#a5d6e7b341d7d28bdd4b7e46a00c532c7", null ],
+    [ "print_next_figure", "frontend__t_8h.html#acd222aed5c5f9a88677f83ab60bbf991", null ],
+    [ "print_pause_menu", "frontend__t_8h.html#a827a0de2da42cddb7eb026a4079f5c2b", null ],
+    [ "print_start_menu", "frontend__t_8h.html#a1d21657adc2eee74ed29ddedb924525d", null ],
+    [ "print_win", "frontend__t_8h.html#a2d966ee65de2664dddb3fb0088a74b14", null ],
+    [ "render", "frontend__t_8h.html#a7ef3098432ac56651673a74348113bf2", null ]
+];
